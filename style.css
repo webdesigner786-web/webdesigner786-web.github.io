@@ -272,7 +272,7 @@
 .foot{display: flex;
       justify-content: center;
       height: 80px;
-      width: 1400px;
+      width: 1600px;
       background-color: black;
       color: white;
       
@@ -285,7 +285,7 @@
        
 }
 .foot2{height: 300px;
-       width: 1400px;
+       width: 1600px;
        color: white;
        background-color: black;
        display: flex;
@@ -301,7 +301,7 @@
 
 
 .foot3{height:100px ;
-       width: 1400px;
+       width: 1600px;
        background-color: rgb(14, 35, 35);
        display: flex;
        justify-content: center;
@@ -370,4 +370,5 @@
   background-size: cover;
   border-radius:10px ;
    padding-left: 5px;
+
 }
