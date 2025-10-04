@@ -272,7 +272,7 @@
 .foot{display: flex;
       justify-content: center;
       height: 80px;
-      width: 1500px;
+      width: 1400px;
       background-color: black;
       color: white;
       
@@ -285,7 +285,7 @@
        
 }
 .foot2{height: 300px;
-       width: 1500px;
+       width: 1400px;
        color: white;
        background-color: black;
        display: flex;
@@ -301,7 +301,7 @@
 
 
 .foot3{height:100px;
-       width: 1500px;
+       width: 1400px;
        background-color: rgb(14, 35, 35);
        display: flex;
        justify-content: center;
@@ -314,7 +314,7 @@
  }
  .logo3{color: white;
         height: 40px;
-        width: 1500px;
+        width: 1400px;
         background-color: black;
         display: flex;
         justify-content: center;
@@ -372,5 +372,6 @@
    padding-left: 5px;
 
 }
+
 
 
